@@ -3,7 +3,7 @@
 
 **SuarezRocio/SuarezRocio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas:
 
 - 🔭 I’m currently working on Apply in courses where you can take more tools for the development of apps until you can collaborate with the development in other companies.
 - 🌱 I’m currently learning DigitalHouse.
