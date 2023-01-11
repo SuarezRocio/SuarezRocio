@@ -5,8 +5,8 @@
 
 Here are some ideas:
 
-- 🔭 I am currently working on appis where I practice the necessary languages for the development of future commercial proposals
+- 🔭 I am currently working on...
 - 🌱 I’m currently learning ... node.js, javascript
-- 👯 I’m looking to collaborate on an application with a commercial purpose for hotel reservations
+- 👯 I’m looking to collaborate on an application with..
 - 📫 How to reach me: email=> suarez.rocio5482@gmail.com 
 
