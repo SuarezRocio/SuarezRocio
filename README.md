@@ -30,6 +30,4 @@ Here are some ideas:
   <img align="center" alt="SuarezRocio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
   
- <div style="display: flex; width: 80%; height: 150px; margin: 30px auto;"/>
-  <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="hello" style="width: 80%; height: 100%; position: center center; object-fit: cover;"/>
-</div>
+
